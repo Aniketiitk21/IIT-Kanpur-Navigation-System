@@ -1,1 +1,1 @@
-# IIT-Kanpur-Navigation-System
+# IITKNavigationSystem
